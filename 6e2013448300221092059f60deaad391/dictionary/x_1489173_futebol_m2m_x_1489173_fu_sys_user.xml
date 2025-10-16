@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9d4653cc8300221092059f60deaad345" label="x_1489173_futebol_m2m_Resultado da Rodadas_Users" max_length="40" name="x_1489173_futebol_m2m_x_1489173_fu_sys_user" type="collection">
+        <element attributes="encode_utf8=false" label="Users" max_length="32" name="sys_user" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Resultado da Rodadas" max_length="32" name="x_1489173_futebol_resultado_da_rodada" reference="x_1489173_futebol_resultado_da_rodada" type="reference"/>
+        <index name="index">
+            <element name="sys_user"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="56a01f848300221092059f60deaad3c7" label="Resultado da Rodada" max_length="40" name="x_1489173_futebol_resultado_da_rodada" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Cor do time" max_length="40" name="cor" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Empate" max_length="40" name="empate" type="boolean"/>
+        <element label="Foto" max_length="40" name="foto" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" label="Observação" max_length="1000" name="u_observacao" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Data" max_length="40" name="data" type="glide_date"/>
+    </element>
+</database>
