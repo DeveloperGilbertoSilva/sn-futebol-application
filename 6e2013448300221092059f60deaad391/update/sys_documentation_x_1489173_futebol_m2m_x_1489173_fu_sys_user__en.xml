@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="x_1489173_futebol_m2m_Resultado da Rodadas_Users" language="en" table="x_1489173_futebol_m2m_x_1489173_fu_sys_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>x_1489173_futebol_m2m_Resultado da Rodadas_Users</label>
+            <language>en</language>
+            <name>x_1489173_futebol_m2m_x_1489173_fu_sys_user</name>
+            <plural>x_1489173_futebol_m2m_Resultado da Rodadas_Users</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-26 12:26:09</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1489173_futebol_m2m_Resultado da Rodadas_Users</sys_name>
+            <sys_package display_value="Futebol" source="x_1489173_futebol">6e2013448300221092059f60deaad391</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Futebol">6e2013448300221092059f60deaad391</sys_scope>
+            <sys_update_name>sys_documentation_x_1489173_futebol_m2m_x_1489173_fu_sys_user__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-26 12:26:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
